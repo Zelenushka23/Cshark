@@ -1,0 +1,15 @@
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/obj/Debug/net6.0/ДЗ_1.csproj.AssemblyReference.cache
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/obj/Debug/net6.0/ДЗ_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/obj/Debug/net6.0/ДЗ_1.AssemblyInfoInputs.cache
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/obj/Debug/net6.0/ДЗ_1.AssemblyInfo.cs
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/obj/Debug/net6.0/ДЗ_1.csproj.CoreCompileInputs.cache
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/bin/Debug/net6.0/ДЗ_1
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/bin/Debug/net6.0/ДЗ_1.deps.json
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/bin/Debug/net6.0/ДЗ_1.runtimeconfig.json
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/bin/Debug/net6.0/ДЗ_1.dll
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/bin/Debug/net6.0/ДЗ_1.pdb
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/obj/Debug/net6.0/ДЗ_1.dll
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/obj/Debug/net6.0/refint/ДЗ_1.dll
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/obj/Debug/net6.0/ДЗ_1.pdb
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/obj/Debug/net6.0/ДЗ_1.genruntimeconfig.cache
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_1/obj/Debug/net6.0/ref/ДЗ_1.dll
