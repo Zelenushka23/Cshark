@@ -43,6 +43,8 @@
 // Console.WriteLine("Введите число");
 // int num = Convert.ToInt32(Console.ReadLine());
 
+
+
 // if(num<6)
 // {
 //      Console.WriteLine("нет");
