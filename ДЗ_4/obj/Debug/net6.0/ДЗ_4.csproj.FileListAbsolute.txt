@@ -1,0 +1,15 @@
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/obj/Debug/net6.0/ДЗ_4.csproj.AssemblyReference.cache
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/obj/Debug/net6.0/ДЗ_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/obj/Debug/net6.0/ДЗ_4.AssemblyInfoInputs.cache
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/obj/Debug/net6.0/ДЗ_4.AssemblyInfo.cs
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/obj/Debug/net6.0/ДЗ_4.csproj.CoreCompileInputs.cache
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/bin/Debug/net6.0/ДЗ_4
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/bin/Debug/net6.0/ДЗ_4.deps.json
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/bin/Debug/net6.0/ДЗ_4.runtimeconfig.json
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/bin/Debug/net6.0/ДЗ_4.dll
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/bin/Debug/net6.0/ДЗ_4.pdb
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/obj/Debug/net6.0/ДЗ_4.dll
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/obj/Debug/net6.0/refint/ДЗ_4.dll
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/obj/Debug/net6.0/ДЗ_4.pdb
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/obj/Debug/net6.0/ДЗ_4.genruntimeconfig.cache
+/Users/nicolezelenskaya/Desktop/C#/ДЗ_4/obj/Debug/net6.0/ref/ДЗ_4.dll

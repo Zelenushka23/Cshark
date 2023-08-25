@@ -1,0 +1,15 @@
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/bin/Debug/net6.0/seminar_7
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/bin/Debug/net6.0/seminar_7.deps.json
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/bin/Debug/net6.0/seminar_7.runtimeconfig.json
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/bin/Debug/net6.0/seminar_7.dll
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/bin/Debug/net6.0/seminar_7.pdb
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/obj/Debug/net6.0/seminar_7.csproj.AssemblyReference.cache
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/obj/Debug/net6.0/seminar_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/obj/Debug/net6.0/seminar_7.AssemblyInfoInputs.cache
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/obj/Debug/net6.0/seminar_7.AssemblyInfo.cs
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/obj/Debug/net6.0/seminar_7.csproj.CoreCompileInputs.cache
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/obj/Debug/net6.0/seminar_7.dll
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/obj/Debug/net6.0/refint/seminar_7.dll
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/obj/Debug/net6.0/seminar_7.pdb
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/obj/Debug/net6.0/seminar_7.genruntimeconfig.cache
+/Users/nicolezelenskaya/Desktop/C#/seminar_7/obj/Debug/net6.0/ref/seminar_7.dll
